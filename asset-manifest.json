@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/nomadReact_MovieWeb/static/css/main.31d6cfe0.css",
-    "main.js": "/nomadReact_MovieWeb/static/js/main.a3f7e8fd.js",
-    "index.html": "/nomadReact_MovieWeb/index.html",
-    "main.a3f7e8fd.js.map": "/nomadReact_MovieWeb/static/js/main.a3f7e8fd.js.map"
+    "main.css": "/nomadreact_movieweb/static/css/main.31d6cfe0.css",
+    "main.js": "/nomadreact_movieweb/static/js/main.a3f7e8fd.js",
+    "index.html": "/nomadreact_movieweb/index.html",
+    "main.a3f7e8fd.js.map": "/nomadreact_movieweb/static/js/main.a3f7e8fd.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
